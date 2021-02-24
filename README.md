@@ -1,0 +1,2 @@
+# InhumanSMP
+ modpack du serveur
